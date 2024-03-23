@@ -3,6 +3,8 @@
 ## Einleitung
 Diese technische Dokumentation bietet einen umfassenden Überblick über das Semesterprojekt "Big Speech VR", einen VR-Präsentationssimulator, entwickelt von Jason Leuschner und Lasse Knodt. Das Projekt zielt darauf ab, die Präsentationsfähigkeiten der Nutzer in einem virtuellen Umfeld zu verbessern, indem sie praktische Übungen durchführen und sofortiges Feedback erhalten.
 
+Das Spielprinzip besteht darin, dass die Nutzer ihre eigene Präsentation im PNG-Format und gegebenenfalls ihre Stichpunkte als TXT importieren können. Nach Abschluss des Tutorials können sie eine der importierten Präsentationen auswählen und mit den gewünschten Features starten. Zu den wählbaren Features gehören das Pulse-Tracking (mit der HypeRate Smartwatch App), das Voice-Tracking (Erkennung von Füllwörtern mit wit.ai) und ein animierties NPC Publikum für live Feedback. Am Ende der Präsentation wird eine Übersicht der aufgezeichneten Daten angezeigt. Der Nutzer hat dann auch die Möglichkeit, seine Präsentation mit den vorherigen Versuchen zu vergleichen.
+
 ## Eigenleistung
 
 ### 3D-Modelle
