@@ -65,14 +65,6 @@ Das Spielprinzip besteht darin, dass die Nutzer ihre eigene Präsentation im PNG
 - Funktionen für Puls und Voice umgesetzt und eingepflegt
 - Es gab Probleme bei dem Benutzen von der Meta SDK und OpenXR. Wir haben die Hände und Handgesten sowie Interaction mit OpenXR verbunden. Leider kann ohne die Meta SDK nicht das Puls Tracking und Voice Tracking aktiviert werden, da die Daten nicht bei der Brille ankommen. Durch das deaktivieren von OpenXR und aktivieren von Oculus gibt es leider kein Handtracking. Es gibt noch eine weitere Build, die da ist um das Handtracking auszuprobieren. Leider ist das auch sehr kurz vor der Abgabe aufgefallen deshalb gibt es noch zwei Tutorials.
 
-### Klassendiagramm
-![Klassendiagramm_Uebersicht](https://hackmd.io/_uploads/SyeTYJX3p.png)
-![Klassendiagramm_1](https://hackmd.io/_uploads/Byp6KJ7nT.png)
-![Klassendiagramm_2](https://hackmd.io/_uploads/Bk66Fk72p.png)
-![Klassendiagramm_3](https://hackmd.io/_uploads/BJppFy7np.png)
-![Klassendiagramm_4](https://hackmd.io/_uploads/r1p6tyXna.png)
-![Klassendiagramm_5](https://hackmd.io/_uploads/rypptymn6.png)
-
 ### Aktivitätsdiagramm
 ![Aktivitätsdiagramm](https://hackmd.io/_uploads/Skyyc1mha.png)
 
