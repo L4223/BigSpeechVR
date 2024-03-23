@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Resources/Scenes/Start.unity
+    guid: afc3530928f44614982729d2c5254a0c
+  - enabled: 1
+    path: Assets/Resources/Scenes/Elevator.unity
+    guid: bce3a22048c40004c87dbd02d7cf1f14
+  - enabled: 1
+    path: Assets/Resources/Scenes/Studio.unity
+    guid: 10590fd06ceba174c93ed4ce65a4b6b9
+  - enabled: 0
+    path: Assets/Samples/XR Interaction Toolkit/2.5.2/Hands Interaction Demo/HandsDemoScene.unity
+    guid: 3ff35cecbcc52cc42945cf531638a60a
+  - enabled: 0
+    path: Assets/Samples/XR Hands/1.4.0-pre.1/Gestures/HandGestures.unity
+    guid: cd792f2302b8b6f4c9f264e2a4503e15
+  - enabled: 0
+    path: Assets/Resources/Scenes/HandGesture.unity
+    guid: ee21ca630e08b364596a7b95c4f4919a
+  - enabled: 1
+    path: Assets/Resources/Scenes/Tutorial.unity
+    guid: 3e271d507322d9c48addd6c6d745a776
+  - enabled: 0
+    path: Assets/Resources/Scenes/PleaseGod.unity
+    guid: 83382f7c034beb142816e6006a2ab73b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ddb13a9ceed1e4e4f8b0670f3d23871e, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ec0699a6ec389ff4ebe0360665586c93, type: 2}
